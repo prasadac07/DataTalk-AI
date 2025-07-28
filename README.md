@@ -160,7 +160,5 @@ If you find this project helpful, please ⭐ star it on GitHub — it helps othe
 
 ```
 
----
 
-Let me know if you'd like a separate `requirements.txt` generated or if you'd like the backend Flask code added here as well.
 ```
