@@ -15,11 +15,6 @@ A powerful AI-powered SQL assistant built with **Streamlit** that allows you to:
 
 ---
 
-## 🚀 Demo
-
-> Coming soon — add screenshots or video walkthrough here if available.
-
----
 
 ## ⚙️ Features
 
