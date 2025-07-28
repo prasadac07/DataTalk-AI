@@ -37,7 +37,7 @@ A powerful AI-powered SQL assistant built with **Streamlit** that allows you to:
 ```bash
 git clone https://github.com/prasadac07/DataTalk-AI.git
 cd DataTalk-AI
-
+```
 
 
 ### 2. Create a virtual environment
