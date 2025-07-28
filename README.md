@@ -1,9 +1,3 @@
-
----
-
-### 📄 `README.md`
-
-````markdown
 # 🧠 DataTalk-AI
 
 A powerful AI-powered SQL assistant built with **Streamlit** that allows you to:
@@ -14,7 +8,6 @@ A powerful AI-powered SQL assistant built with **Streamlit** that allows you to:
 - Execute queries and download results
 
 ---
-
 
 ## ⚙️ Features
 
@@ -44,7 +37,8 @@ A powerful AI-powered SQL assistant built with **Streamlit** that allows you to:
 ```bash
 git clone https://github.com/prasadac07/DataTalk-AI.git
 cd DataTalk-AI
-````
+
+
 
 ### 2. Create a virtual environment
 
@@ -154,11 +148,3 @@ For questions or suggestions, contact [Taneeee](https://github.com/Taneeee) or o
 
 ---
 
-## ⭐ Star the Repo
-
-If you find this project helpful, please ⭐ star it on GitHub — it helps others discover it too!
-
-```
-
-
-```
