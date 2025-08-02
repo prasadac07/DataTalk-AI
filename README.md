@@ -142,9 +142,4 @@ Make sure you:
 
 ---
 
-## 📬 Contact
-
-For questions or suggestions, contact [Taneeee](https://github.com/Taneeee) or open an issue.
-
----
 
